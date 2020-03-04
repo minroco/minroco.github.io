@@ -1,6 +1,6 @@
 title: Researcher
 url: "https://minroco.github.io"
-baseurl: ""
+baseurl: "/researcher/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
